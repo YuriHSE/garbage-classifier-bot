@@ -3,3 +3,11 @@ onnxruntime
 Pillow
 numpy
 python-dotenv
+torch
+torchvision
+pillow
+pandas
+scikit-learn
+matplotlib
+aiogram
+scikit-learn

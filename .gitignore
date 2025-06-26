@@ -4,3 +4,4 @@ __pycache__/
 *.png
 model/*.onnx
 .env
+bot.log
