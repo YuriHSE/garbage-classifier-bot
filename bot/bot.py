@@ -22,7 +22,7 @@ load_dotenv()
 TOKEN = os.getenv("BOT_TOKEN")
 
 
-session = ort.InferenceSession("/Users/yurishcherbakov/Desktop/garbage-classifier-bot/bot/trashnet.onnx")
+session = ort.InferenceSession("bot/trashnet.onnx")
 classes = ["cardboard", "glass", "metal", "paper", "plastic", "trash"]
 
 
