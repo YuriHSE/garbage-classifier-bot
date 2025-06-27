@@ -1,0 +1,9 @@
+.venv
+__pycache__/
+*.pyc
+*.jpg
+*.png
+.git
+.gitignore
+.env
+bot.log
