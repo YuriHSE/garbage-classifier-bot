@@ -25,7 +25,7 @@ docker run -e "BOT_TOKEN=your_token_here" yurihse/garbage-classifier-bot
 ## 1. Клонирование репозитория
 
 ```bash
-git clone https://github.com/e/garbage-classifier-bot.git
+git clone https://github.com/YuriHSE/garbage-classifier-bot.git
 cd garbage-classifier-bot
 ```
 
