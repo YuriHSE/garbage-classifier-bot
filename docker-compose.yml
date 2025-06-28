@@ -3,8 +3,7 @@ version: '3.8'
 services:
   bot:
     build: .
-    environment:
-      - BOT_TOKEN=${BOT_TOKEN}
+    env_file: .env
     volumes:
       - .:/app
     restart: unless-stopped
